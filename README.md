@@ -1,26 +1,97 @@
-👋 Hi, I’m Madison
-I’m a marketing strategist pivoting into cybersecurity with a focus on hands‑on learning, documentation, and building real proof‑of‑work projects. I’m currently doing the ASU Cybersecurity Bootcamp and building a portfolio that reflects my growth, curiosity, and technical foundation.
+# 👋 Hi, I'm Madison Starobin
 
-🔐 What I’m Learning
-Operating system fundamentals (Windows, Linux, macOS)
-Networking basics (IP addressing, DNS, TCP handshake)
-Linux command line & file permissions
-Software installation, security, and system hardening
-Intro to Python for security
-Cybersecurity tools and workflows
+Aspiring **Cybersecurity Professional** building a strong foundation in Python, logic, and real‑world problem solving. I’m currently transitioning from marketing and communications into tech, focusing on cybersecurity, risk, and compliance.  
 
-🧪 What I’m Building
-Networking Basics Lab
-Linux Command Cheat Sheet
-Software Installation & Security Notes
-Log analysis practice
-Beginner-friendly security projects and documentation
+I love creating clean, beginner‑friendly projects that show my growth and help me understand concepts deeply.
 
-🎯 My Goals
-Build a strong, transparent cybersecurity portfolio
-Land an entry-level cybersecurity or IT role
-Develop skills in incident response, threat analysis, and system administration
+---
 
-📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/madison-starobin/
-GitHub: https://github.com/madisonstarobin
+## 🚀 About Me
+
+- 📍 Based in Phoenix, AZ  
+- 🎓 B.A. in Communication (Dean’s List all 8 semesters)  
+- 🛡️ Preparing for the ASU Cybersecurity Bootcamp (starts Jan 2026)  
+- 🐾 Part‑time at Camp Bow Wow while building my tech portfolio  
+- 🧠 Passionate about structured learning, documentation, and making complex topics beginner‑friendly  
+- 🐶 Saving up for a future basset hound  
+
+---
+
+## 🧰 Tech & Tools
+
+**Languages & Logic**
+- Python (beginner–intermediate)
+- Bash (learning)
+- Basic networking & security concepts
+
+**Tools**
+- Git & GitHub  
+- VS Code    
+- Markdown  
+- Linux (learning)
+
+**Cybersecurity Interests**
+- Incident response  
+- SIEM/XDR  
+- Threat analysis  
+- Audit & compliance frameworks  
+- Secure coding basics  
+
+---
+
+## 📂 Projects
+
+A curated selection of beginner‑friendly Python and cybersecurity‑aligned projects.
+
+### 🔹 Investment & Bond Calculator  
+**Repo:** [investment-bond-calculator](https://github.com/madisonstarobin/investment-bond-calculator)  
+A Python program that calculates investment growth (simple or compound interest) and monthly bond repayments.  
+**Skills:** Input handling, conditional logic, math formulas, user‑friendly formatting.
+
+---
+
+### 🔹 Arrow Pattern Generator  
+**Repo:** Coming soon  
+A pattern‑printing program using for loops and conditional logic to generate symmetrical arrow shapes.  
+**Skills:** Loop logic, pattern design, control structures, algorithmic thinking.
+
+---
+
+### 🔹 More Projects Coming Soon  
+I’m actively building hands‑on Python and cybersecurity projects, including:
+
+- File handling & automation tools  
+- Beginner cybersecurity labs  
+- Python logic challenges  
+- Networking & Linux practice projects  
+
+---
+
+## 🎯 Current Goals
+
+- Build a strong Python portfolio  
+- Strengthen cybersecurity fundamentals  
+- Complete the ASU Cybersecurity Bootcamp  
+- Land a remote‑friendly entry‑level tech role  
+- Continue improving my documentation and project structure  
+
+---
+
+## 🌱 What I'm Learning Right Now
+
+- Python loops, conditionals, and error handling  
+- Linux basics & command line navigation  
+- Cybersecurity fundamentals (CIA triad, threat types, controls)  
+- How to write clean, professional READMEs  
+- How to structure projects for recruiters and hiring managers  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: **you’re already here**  
+- LinkedIn: https://www.linkedin.com/in/madison-starobin/
+
+---
+
+Thanks for stopping by — I’m excited to keep growing and building meaningful projects.
